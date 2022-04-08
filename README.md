@@ -1,0 +1,2 @@
+# Gorsel_Programlama_Alisveris_Uygulamasi
+jFrame kullanılarak alışveriş sepeti simülasyonudur.
